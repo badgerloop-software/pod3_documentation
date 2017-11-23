@@ -1,0 +1,6 @@
+*.swp
+gcc/html
+gcc/pdf
+gcc/samples
+real-time-cpp
+pod2_documentation
