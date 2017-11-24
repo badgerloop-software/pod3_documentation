@@ -10,6 +10,8 @@ repositories cloned to this location.
 
 ## Important links
 
+* [Install ST-Link v2 on Linux](http://fishpepper.de/2016/09/16/installing-using-st-link-v2-to-flash-stm32-on-linux/)
+* [Using ST-Link v2 on Linux](http://fishpepper.de/2016/09/16/openground-part-3-swd-st-link-debugger/)
 * TODO: add link to Cube F7 download
 * TODO: add linke to Cube L4 download
 * TODO: come up with list of other important links
