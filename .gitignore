@@ -4,3 +4,5 @@ gcc/pdf
 gcc/samples
 real-time-cpp
 pod2_documentation
+stlink
+STM32Cube_FW_L4_V1.10.0
